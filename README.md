@@ -1,2 +1,3 @@
 # API-chat
-This is an API chat
+
+This repository is an API chat project
